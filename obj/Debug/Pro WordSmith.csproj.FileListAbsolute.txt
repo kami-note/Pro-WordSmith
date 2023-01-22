@@ -1,0 +1,10 @@
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.csproj.AssemblyReference.cache
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.csproj.SuggestedBindingRedirects.cache
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro_WordSmith.Properties.Resources.resources
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.csproj.GenerateResource.cache
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.csproj.CoreCompileInputs.cache
+C:\Users\yurin\source\repos\Pro WordSmith\bin\Debug\Pro WordSmith.exe.config
+C:\Users\yurin\source\repos\Pro WordSmith\bin\Debug\Pro WordSmith.exe
+C:\Users\yurin\source\repos\Pro WordSmith\bin\Debug\Pro WordSmith.pdb
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.exe
+C:\Users\yurin\source\repos\Pro WordSmith\obj\Debug\Pro WordSmith.pdb
